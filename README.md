@@ -4,6 +4,8 @@
 
 A selection of resources you may find useful when creating web applications, these include colour theme generator, fonts, images and patterns.
 
+---
+
 **Colour**
 
 - [Coolors](https://coolor.co) - Colour scheme generator. You can generate colour palettes for you projects.
@@ -29,6 +31,8 @@ A selection of resources you may find useful when creating web applications, the
 
 When making web applications you may not have the data needed to populate the site. Here are some resources for generating mock data.
 
+---
+
 **Mock Data**
 
 - [Mockaroo](https://www.mockaroo.com/) - Mockaroo lets you generate up to 1,000 rows of realistic test data in CSV, JSON, SQL, and Excel formats.
@@ -39,6 +43,10 @@ When making web applications you may not have the data needed to populate the si
 
 ## Note taking & Productivity
 
+A selection of apps for boosting productivity or taking notes.
+
+---
+
 - [Obsidian](https://obsidian.md/) - Obsidian is a note taking app, similar to Notion, but has a nice linking system and visuals of how concepts link together.
 - [Activity Watch](https://activitywatch.net/) - Tracks time spend on differnt sites, apps and programs. You can catagorise things for work, social, etc.
 - [Freedom App](https://freedom.to) - Block distractions across all devices by blocking traffic to sites that distract you. Amazing for me and really works.
@@ -46,18 +54,29 @@ When making web applications you may not have the data needed to populate the si
 
 ## Reference & Docs
 
+All the references you could ever need.
+
+---
+
 - [Mozilla Developer Network](https://developer.mozilla.org/en-US/) - Documentation for HTML, CSS & JavaScript.
 - [React Docs](https://reactjs.org/docs/getting-started.html) - Documentation for ReactJS, a framework developed and maintained by Facebook.
 - [Node Docs](https://nodejs.org/en/docs/) - Documentation for NodeJS, a server-side runtime environment.
 - [W3C](https://www.w3.org/) - These guys set the standards for the internet.
 - Express
 - [DevDocs](https://devdocs.io/) - A collection of all the docs you could ever need.
+- [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - CSS Tricks guide to Flexbox.
 
 ## Frameworks
+
+A selection of interesting frameworks.
 
 - [TailWindCSS](https://tailwindcss.com/) - Write CSS without actually writing CSS. It's all class based, but you still need to understand CSS. Very powerful theming tools with `tailwind.config` file.
 
 ## Tools & Plugins
+
+A selection of tools & plugins for VSCode or iTerm.
+
+---
 
 **API Tools**
 
@@ -77,9 +96,48 @@ When making web applications you may not have the data needed to populate the si
 - [Todo Tree](https://github.com/Gruntfuggly/todo-tree.git) - Searches the current project for any comments containting TODO and FIXME. It then shows you list of each and the file it is in.
 - [TailWindCSS IntelliSense](https://github.com/tailwindlabs/tailwindcss-intellisense) - Autocompletion for all TailWindCSS classes.
 
+**CSS Tools**
+
+- [Simple CSS Media Query Generator](https://simplecss.eu) - Generate CSS media queries for hundreds of devices including numerous ipad and iphone models, android devices by Samsung, LG, and many more.
+- [Loading.io CSS Spinner](https://loading.io) - A selection of CSS Spinners.
+
+**Terminal**
+
+- [iTerm2](https://iterm2.com/) - A great replacement terminal for Mac users.
+
 ## Inspiration
+
+A selection of sites you can use for inspiration.
+
+---
 
 - [CodePen](https://codepen.io/) - The best place to build, test, and discover front-end code.
 - [Dribble](https://dribbble.com/) - Explore the world’s leading design portfolios.
 - [Theme Forest](https://themeforest.net/) - Theme Store.
-  ß
+- [Built With](https://builtwith.com/) - Find out what websites are Built With. Just paste the URL of the site you want to know what tech stack they used.
+
+## NPM Packages
+
+A selection of NPM Packages for various development scenarios.
+
+---
+
+**Global**
+
+- [Nodemon](https://www.npmjs.com/package/nodemon) - Nodemon watches files for changes and restarts any servers when you save so you don't have to.
+- [Dotenv](https://www.npmjs.com/package/dotenv) - Sometimes you need to include things like API Keys in your code and we wouldn't want to push this to GitHub, this is where `dotenv` comes in and adds this data to environment variables. Don't forget your `.gitignore`.
+
+**Back-end**
+
+- [Express](https://expressjs.com/) - Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
+- [BcryptJS](https://www.npmjs.com/package/bcryptjs) - A library to help you hash passwords.
+- [Jest](https://www.npmjs.com/package/jest) - Delightful JavaScript Testing
+- [JSONWebToken](https://www.npmjs.com/package/jsonwebtoken) - An implementation of JSON Web Tokens. Used for sessions.
+- [Mongoose](https://www.npmjs.com/package/mongoose) - Mongoose is a MongoDB object modeling tool designed to work in an asynchronous environment.
+- [Socket.io](https://socket.io/) - Build instant message chat apps with WebSockets.
+
+**Front-end**
+
+- [Axios](https://www.npmjs.com/package/axios) - Promise based HTTP client for the browser and node.js
+- [React Toastify](https://www.npmjs.com/package/react-toastify) - React-Toastify allows you to add notifications to your app with ease. No more nonsense!
+- [Hamburger React](https://www.npmjs.com/package/hamburger-react) - Animated hamburger menu icons for React
