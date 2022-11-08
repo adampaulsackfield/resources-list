@@ -170,7 +170,7 @@ A selection of shortcuts, these are MacOS centric, but the same should be possib
 
 ## Emmet
 
-Emmet is great for the helping you complete HTML & CSS very quickly. Type your shortcut then press `tab`.
+Emmet is great for the helping you complete HTML & CSS very quickly. Type your shortcut then press `tab`. The cursor will then be placed where you would logically be about to type.
 
 ---
 
