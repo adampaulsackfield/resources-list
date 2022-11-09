@@ -1,6 +1,6 @@
 # Resources
 
-A collection of resources. This is a collaborative effort and anybody can make a pull request.
+A collection of resources. This is a collaborative effort and anybody can make a pull request. The repository is does not allow pushes to the main branch so please ensure to create a new branch before pushing,
 
 ## Contents
 
