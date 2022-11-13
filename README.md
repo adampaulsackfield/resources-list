@@ -15,3 +15,4 @@ A collection of resources. This is a collaborative effort and anybody can make a
 - [Tools & Plugins](https://github.com/adampaulsackfield/resources-list/blob/main/tap.md)
 - [Mock Data & Placeholders](https://github.com/adampaulsackfield/resources-list/blob/main/mdap.md)
 - [NPM Packages](https://github.com/adampaulsackfield/resources-list/blob/main/npm.md)
+- [Learning Resources](https://github.com/adampaulsackfield/resources-list/blob/main/lr.md)
