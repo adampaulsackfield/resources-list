@@ -8,7 +8,7 @@ A selction of resources for learning various technologies online, for free and p
 
 - [freeCodeCamp](https://www.freecodecamp.org/) - A great place to learn coding for free, many of the courses are on YouTube.
 - [CS50](https://www.edx.org/cs50) - Harvard CS50 Course is a great intro to Computer Science, also can be found on YouTube and gets refreshed frequently.
-- [teamTreehouse]() - Not used for a while but this is the first site I ever learned on and it was a great intro.
+- [teamTreehouse](https://teamtreehouse.com/) - Not used for a while but this is the first site I ever learned on and it was a great intro.
 - [Udemy](https://udemy.com/) - Courses on literally anything. Only buy on sale though.
 
 ## Ethical Hacking
