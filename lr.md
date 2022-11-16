@@ -20,7 +20,3 @@ A selction of resources for learning various technologies online, for free and p
 - [Comptia Network+](https://www.comptia.org/certifications/network) - CompTIA Network+ helps develop a career in IT infrastructure covering troubleshooting, configuring, and managing networks.
 - [Comptia Security+](https://www.comptia.org/certifications/security) - Security+ opens the door to your cybersecurity career!
 - [Comptia PenTest+](https://www.comptia.org/certifications/pentest) - CompTIA PenTest+ is for cybersecurity professionals tasked with penetration testing and vulnerability management.
-
-## CSS
-
-- [Selection of Mobile Menu Ideas](https://freefrontend.com/css-mobile-menus/) - A selection of CSS only menu ideas.

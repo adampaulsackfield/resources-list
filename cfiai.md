@@ -7,6 +7,7 @@ A selection of resources you may find useful when creating web applications, the
 ## Colour
 
 - [Coolors](https://coolor.co) - Colour scheme generator. You can generate colour palettes for you projects.
+- [Adobe Kuler](https://color.adobe.com/create/color-wheel) - Colour scheme generator. Great for quickly finding complementary colours.
 
 ## Images
 

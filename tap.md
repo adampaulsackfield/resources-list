@@ -22,11 +22,6 @@ A selection of tools & plugins for VSCode or iTerm.
 - [Todo Tree](https://github.com/Gruntfuggly/todo-tree.git) - Searches the current project for any comments containting TODO and FIXME. It then shows you list of each and the file it is in.
 - [TailWindCSS IntelliSense](https://github.com/tailwindlabs/tailwindcss-intellisense) - Autocompletion for all TailWindCSS classes.
 
-## CSS Tools
-
-- [Simple CSS Media Query Generator](https://simplecss.eu) - Generate CSS media queries for hundreds of devices including numerous ipad and iphone models, android devices by Samsung, LG, and many more.
-- [Loading.io CSS Spinner](https://loading.io) - A selection of CSS Spinners.
-
 ## Terminal
 
 - [iTerm2](https://iterm2.com/) - A great replacement terminal for Mac users.
