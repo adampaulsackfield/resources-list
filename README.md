@@ -8,9 +8,11 @@ The repository does not allow pushes to the `main` branch so please ensure to cr
 
 ## Contents
 
+- [VSCode](https://github.com/adampaulsackfield/resources-list/blob/main/vsc.md)
+- [CSS](https://github.com/adampaulsackfield/resources-list/blob/main/css.md)
 - [Emmet](https://github.com/adampaulsackfield/resources-list/blob/main/e.md)
 - [Google Dorks](https://github.com/adampaulsackfield/resources-list/blob/main/gd.md)
-- [Useful Shortcuts](https://github.com/adampaulsackfield/resources-list/blob/main/us.md)
+- [Terminal Shortcuts](https://github.com/adampaulsackfield/resources-list/blob/main/ts.md)
 - [Colour, Fonts, Images and Icons](https://github.com/adampaulsackfield/resources-list/blob/main/cfiai.md)
 - [Note taking & Productivity](https://github.com/adampaulsackfield/resources-list/blob/main/ntap.md)
 - [Reference & Docs](https://github.com/adampaulsackfield/resources-list/blob/main/rad.md)
