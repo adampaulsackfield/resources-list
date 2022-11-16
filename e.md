@@ -60,4 +60,8 @@ margin-top: ;
 
 ### Wrap Elements
 
-- ![GIF showing command](https://github.com/adampaulsackfield/resources-list/blob/main/images//wrapemmet.gif)
+![GIF showing command](https://github.com/adampaulsackfield/resources-list/blob/main/images//wrapemmet.gif)
+
+### Shorthand
+
+![GIF showing command](https://github.com/adampaulsackfield/resources-list/blob/main/images//wrapemmet.gif)
