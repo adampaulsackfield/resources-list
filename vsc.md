@@ -94,3 +94,19 @@ margin-top: ;
 ### Command + Option + Arrow
 
 - ![GIF showing command](https://github.com/adampaulsackfield/resources-list/blob/main/images//optioncommandarrow.gif)
+
+### Command + F
+
+- ![GIF showing command](https://github.com/adampaulsackfield/resources-list/blob/main/images//commandf.gif)
+
+### Command + B
+
+- ![GIF showing command](https://github.com/adampaulsackfield/resources-list/blob/main/images//commandb.gif)
+
+### Command + P
+
+- ![GIF showing command](https://github.com/adampaulsackfield/resources-list/blob/main/images//commandp.gif)
+
+### Command + Control + `
+
+- ![GIF showing command](https://github.com/adampaulsackfield/resources-list/blob/main/images//openterminal.gif)
