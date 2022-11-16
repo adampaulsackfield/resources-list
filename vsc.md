@@ -84,10 +84,10 @@ margin-top: ;
 ## Shortcut Examples
 
 **Option / ALT + Click**
-![GIF showing command](./images/optionclick.gif)
+![GIF showing command](https://github.com/adampaulsackfield/resources-list/blob/main/images/optionclick.gif)
 
 **Command / Control + D**
-![GIF showing command](./images//commandd.gif)
+![GIF showing command](https://github.com/adampaulsackfield/resources-list/blob/main/images//commandd.gif)
 
 **Command + Option + Arrow**
-![GIF showing command](./images//optioncommandarrow.gif)
+![GIF showing command](https://github.com/adampaulsackfield/resources-list/blob/main/images//optioncommandarrow.gif)
