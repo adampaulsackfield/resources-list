@@ -2,7 +2,7 @@
 
 ## Shortcuts
 
-- In VSCode is you select a word that you want ot wrap in something, like quotes, brackets, etc. Then you can just highlight something and press the squarebracket for instance.
+- In VSCode if you select a word that you want to wrap in something, like quotes, brackets, etc. Then you can just highlight something and press the squarebracket or whatever you want to wrap it in.
 - `option` - While holding the option key you can select multiple cursors and type multiple lines at the same time. So if you're adding a class to multiple divs then you can do it all in one go.
 - `option + command` + `up or down arrow` - Same as above but will insert new cursors above. Only works if same formatting on each line really.
 - `command + d` - This is very useful as it will select the next instance of whatever you have highlighted.
