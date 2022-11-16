@@ -55,3 +55,9 @@ text-align: center;
 ```css
 margin-top: ;
 ```
+
+## Demos
+
+### Wrap Elements
+
+- ![GIF showing command](https://github.com/adampaulsackfield/resources-list/blob/main/images//wrapemmet.gif)
