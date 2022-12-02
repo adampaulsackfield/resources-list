@@ -8,6 +8,7 @@ A selection of NPM Packages for various development scenarios.
 
 - [Nodemon](https://www.npmjs.com/package/nodemon) - Nodemon watches files for changes and restarts any servers when you save so you don't have to.
 - [Dotenv](https://www.npmjs.com/package/dotenv) - Sometimes you need to include things like API Keys in your code and we wouldn't want to push this to GitHub, this is where `dotenv` comes in and adds this data to environment variables. Don't forget your `.gitignore`.
+- [project-generator-aps](https://www.npmjs.com/package/project-generator-aps) - A simple project generator that can quickly generate a Vanilla HTML, CSS and JS directory structure, also has an SCSS template.
 
 ## Back-end
 
