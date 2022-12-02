@@ -23,6 +23,52 @@
 - [Todo Tree](https://github.com/Gruntfuggly/todo-tree.git) - Searches the current project for any comments containting TODO and FIXME. It then shows you list of each and the file it is in.
 - [TailWindCSS IntelliSense](https://github.com/tailwindlabs/tailwindcss-intellisense) - Autocompletion for all TailWindCSS classes.
 
+## Custom Snippets
+
+Sick of extensions for small tasks, then Snippets are for you.
+
+### How to open Snippets
+
+`cmd + shift + p` - opens the command pallette. type snippets and look for `Configure User Snippets` finally select the language, for instance javascript.json.
+
+### How to create one
+
+```json
+"Arrow Function No Params": {
+  "prefix": "af",
+  "body": "() => $0",
+  "description": "Expands into an arrow function, without params."
+},
+
+"Arrow Function Params": {
+  "prefix": "afa",
+  "body": "($1) => $0",
+  "description": "Expands into an arrow function, with params."
+},
+```
+
+So what is going on here? It is just an object with three keys: prefix, body and description, their respective values would be the shortcut, what it should output and a short description that shows in intellisense. The `$` with numbers is where the cursor will tab between. High -> Low. Body here is a string, but you can have an array for multi line outputs like below:
+
+```json
+"React Arrow Function Const Export": {
+"prefix": "rafce",
+"body": [
+    "import './$TM_FILENAME_BASE'.scss",
+    "",
+    "const $TM_FILENAME_BASE = () => {",
+    "",
+    "  return <div>$TM_FILENAME_BASE</div>;",
+    "",
+    "};",
+    "",
+    "export default $TM_FILENAME_BASE"
+  ],
+"description": "Builds a react functional arrow component, named the same as the file"
+}
+```
+
+As you can see you can get a lot more complex and have the Snippet get the file name and insert it.
+
 ## Emmet
 
 Emmet is great for the helping you complete HTML & CSS very quickly. Type your shortcut then press `tab`. The cursor will then be placed where you would logically be about to type.
